@@ -1,6 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html lang="ko">
 
@@ -12,7 +9,7 @@
         <div class="loader"></div>
     </div>
 
-    <%@ include file="include/main_header.jsp" %>ㄴㄴ
+    <%@ include file="include/main_header.jsp" %>
 
     <!-- Hero Section Begin -->
     <section class="hero hero-normal">
@@ -25,7 +22,7 @@
                             <span>All departments</span>
                         </div>
                         <ul>
-                            <li><a href="#">신선한 고기</a></li>
+                            <li><a href="#">Fresh Meat</a></li>
                             <li><a href="#">Vegetables</a></li>
                             <li><a href="#">Fruit & Nut Gifts</a></li>
                             <li><a href="#">Fresh Berries</a></li>
@@ -276,7 +273,7 @@
                                         </div>
                                         <div class="product__discount__item__text">
                                             <span>Dried Fruit</span>
-                                            <h5><a href="#">Raisinânânuts</a></h5>
+                                            <h5><a href="#">Raisin’n’nuts</a></h5>
                                             <div class="product__item__price">$30.00 <span>$36.00</span></div>
                                         </div>
                                     </div>
@@ -294,7 +291,7 @@
                                         </div>
                                         <div class="product__discount__item__text">
                                             <span>Vegetables</span>
-                                            <h5><a href="#">Vegetablesâpackage</a></h5>
+                                            <h5><a href="#">Vegetables’package</a></h5>
                                             <div class="product__item__price">$30.00 <span>$36.00</span></div>
                                         </div>
                                     </div>
@@ -330,7 +327,7 @@
                                         </div>
                                         <div class="product__discount__item__text">
                                             <span>Dried Fruit</span>
-                                            <h5><a href="#">Raisinânânuts</a></h5>
+                                            <h5><a href="#">Raisin’n’nuts</a></h5>
                                             <div class="product__item__price">$30.00 <span>$36.00</span></div>
                                         </div>
                                     </div>
@@ -348,7 +345,7 @@
                                         </div>
                                         <div class="product__discount__item__text">
                                             <span>Dried Fruit</span>
-                                            <h5><a href="#">Raisinânânuts</a></h5>
+                                            <h5><a href="#">Raisin’n’nuts</a></h5>
                                             <div class="product__item__price">$30.00 <span>$36.00</span></div>
                                         </div>
                                     </div>
@@ -366,7 +363,7 @@
                                         </div>
                                         <div class="product__discount__item__text">
                                             <span>Dried Fruit</span>
-                                            <h5><a href="#">Raisinânânuts</a></h5>
+                                            <h5><a href="#">Raisin’n’nuts</a></h5>
                                             <div class="product__item__price">$30.00 <span>$36.00</span></div>
                                         </div>
                                     </div>
